@@ -50,7 +50,7 @@ EDA involves exploring the passengers demographics to answer the following quest
 - Define relationships between different tables (e.g., Passenger, Ticket, Fare).
 - Create calculated columns or measures to enrich the dataset with additional 
 insights.
-2. Survival Analysis:
+2. 🧑‍🤝‍🧑Survival Analysis:
 - Calculate the overall survival rate of passengers.
 - Analyze survival rates based on factors such as gender, age, and passenger 
 class.
@@ -59,11 +59,11 @@ class.
 charts.
 - Analyze the distribution of age, gender, and passenger class among the 
 passengers.
-4. Family Size Analysis:
+4. 👪Family Size Analysis:
 - Investigate the impact of family size (SibSp and Parch) on survival rates.
 - Visualize survival rates for passengers traveling alone versus those with family 
 members.
-5. Fare Analysis:
+5. 💰Fare Analysis:
 - Explore fare distribution based on passenger class
 
 ### Results and Findings
