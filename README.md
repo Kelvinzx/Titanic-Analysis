@@ -15,6 +15,17 @@
 To analyze the Titanic dataset and extract valuable insights regarding 
 passenger demographics, survival rates, and other relevant factors.
 
+<img width="635" alt="Survival Analysis" src="https://github.com/Kelvinzx/Titanic-Dataset/assets/147884934/0cc744b6-5d7c-48d0-8814-b82768c00cb0">
+
+<img width="621" alt="Demographics" src="https://github.com/Kelvinzx/Titanic-Dataset/assets/147884934/716eda9d-3404-4242-88e9-6917b887c81d">
+
+<img width="623" alt="Family Size" src="https://github.com/Kelvinzx/Titanic-Dataset/assets/147884934/1e77c8e5-6735-4ab9-aba0-35cafdee4bc0">
+
+<img width="613" alt="Fare" src="https://github.com/Kelvinzx/Titanic-Dataset/assets/147884934/18d85d56-0aaf-4cf2-bf23-245afd599a75">
+
+
+
+
 ### Data Source
 
 Titanic passenger data: The primary dataset used for this project is the "titanic.csv" file, containing detailed infromation about the passengers that boarded the ship.
